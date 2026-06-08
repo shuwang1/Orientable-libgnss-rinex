@@ -1,6 +1,6 @@
 # libgnss-rinex-swift
 
-[![CI](https://github.com/shuwang1/Orientable-libgnss-rinex/actions/workflows/ci.yml/badge.svg)](https://github.com/shuwang1/Orientable-libgnss-rinex/actions/workflows/ci.yml)
+[![CI](https://github.com/shuwang1/Orientable-libgnss-rinex/actions/workflows/ci.yml/badge.svg)](https://github.com/shuwang1/Orientable-libgnss-rinex/actions/workflows/ci.yml)[![pages-build-deployment](https://github.com/shuwang1/Orientable-libgnss-rinex/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/shuwang1/Orientable-libgnss-rinex/actions/workflows/pages/pages-build-deployment)
 
 `libgnss-rinex-swift` is a pure Swift implementation of GNSS RINEX (Receiver Independent Exchange Format) parsing and generation capabilities, originally adapted from a Orientable AI internal C/C++ project.
 
